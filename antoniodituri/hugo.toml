@@ -1,0 +1,4 @@
+baseURL = 'https://antoniodituri.github.io/'
+languageCode = 'en-us'
+title = 'Antonio Di Turi blog'
+theme = 'DoIt'
